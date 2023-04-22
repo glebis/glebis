@@ -1,4 +1,5 @@
-- Hi, I'm Gleb Kalinin. I'm a certified mindfulness coach (evidence-based approaches), psychologist (Acceptance and commitment therapy) a coach and a photographer.
+- Hi, I'm Gleb Kalinin. 
+- I use AI to superpower my diverse skillset and do things I never thought possible
 - I use Github mostly to manage my websites (running on Hexo, 11ty and other static site generators)
 - 📫 Reach me @glebis on Twitter
 
