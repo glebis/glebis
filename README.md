@@ -1,6 +1,6 @@
 - Hi, I'm Gleb Kalinin. 
-- I use AI to superpower my diverse skillset and do things I never thought possible. I publish scripts I create using ChatGPT and other AI tools
-- I use Github mostly to manage my websites (running on Hexo, 11ty and other static site generators)
+- I use AI to superpower my diverse skillset and do things I never thought possible.
+- I publish scripts and Obsidian plugins I create in collaboration with AI tools
 - 📫 Reach me @glebis on Twitter
 
 <!---
