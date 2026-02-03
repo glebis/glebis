@@ -20,3 +20,8 @@ I build experimental tools at the intersection of AI and creative practice. Most
 
 📫 [@glebis](https://x.com/glebis) on X
 💬 [@glebkalinin](https://t.me/glebkalinin) on Telegram
+💼 [linkedin.com/in/glebkalinin](https://linkedin.com/in/glebkalinin)
+
+**Telegram channels**:
+[КЛОДКОТ](https://t.me/klodkot) — Claude Code workflows
+[Tool Building Ape](https://t.me/toolusing) — AI tools & experiments
