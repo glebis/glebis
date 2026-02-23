@@ -4,7 +4,7 @@ I build experimental tools at the intersection of AI and creative practice. Most
 
 ### Recent Projects
 
-**[telegram_agent](https://github.com/glebis/telegram_agent)** — AI-powered Telegram bot with memory, web research, and multi-user support
+**[verity-agent](https://github.com/glebis/verity-agent)** — Claude Agent SDK-powered Telegram bot for knowledge worker with Obsidian integration, research, habit tracking 
 
 **[beat-gen](https://github.com/glebis/beat-gen)** — CLI drum machine with AI-generated samples and MIDI export
 
