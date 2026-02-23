@@ -2,6 +2,10 @@
 
 I build experimental tools at the intersection of AI and creative practice. Most projects emerge from personal needs—voice interfaces, audio analysis, generative music, knowledge management automation.
 
+Become AI-native with me: 
+→ [Claude Code Lab](https://claude.salient.community/) — 6 weeks deep dive into best general-use agent
+→ [Salience](https://salience.glebkalinin.com/) — Build an agent-powered personal OS
+
 ### Recent Projects
 
 **[verity-agent](https://github.com/glebis/verity-agent)** — Claude Agent SDK-powered Telegram bot for knowledge worker with Obsidian integration, research, habit tracking 
