@@ -12,15 +12,23 @@ I build experimental tools at the intersection of AI and creative practice. Most
 
 ### Recent Projects
 
-**[verity-agent](https://github.com/glebis/verity-agent)** — Claude Agent SDK-powered Telegram bot for knowledge worker with Obsidian integration, research, habit tracking 
+**[genome-toolkit](https://github.com/glebis/genome-toolkit)** — Personal genomics Obsidian vault toolkit — import, analyze, and act on your genome data with Claude Code
+
+**[verity-agent](https://github.com/glebis/verity-agent)** — Claude Agent SDK-powered Telegram bot for knowledge workers with Obsidian integration, research, and habit tracking
+
+**[generative-sequencer](https://github.com/glebis/generative-sequencer)** — Browser-based generative music sequencer with radial visualization, Web Audio synthesis, and AI-powered layer creation
+
+**[claude-relay-mcp-server](https://github.com/glebis/claude-relay-mcp-server)** — MCP server for inter-session communication between Claude Code instances with routing, group chat, and access control
+
+**[obsidian-4d-graph-explorer](https://github.com/glebis/obsidian-4d-graph-explorer)** — Explore your Obsidian knowledge graph in four dimensions with WebGL
+
+**[claude-skills](https://github.com/glebis/claude-skills)** — Collection of Claude Code skills for enhanced AI workflows
+
+**[gopro-webcam](https://github.com/glebis/gopro-webcam)** — Use GoPro Hero 13 as a webcam on macOS — workaround for the broken official app
 
 **[beat-gen](https://github.com/glebis/beat-gen)** — CLI drum machine with AI-generated samples and MIDI export
 
 **[modular-web-synth](https://github.com/glebis/modular-web-synth)** — Terminal-aesthetic modular synthesizer with AI module generation and Euclidean rhythms
-
-**[claude-skills](https://github.com/glebis/claude-skills)** — Collection of Claude Code skills for enhanced AI workflows
-
-**[grok-voice-app](https://github.com/glebis/grok-voice-app)** — macOS notch-native voice assistant with xAI Grok integration
 
 **[audio-monitor](https://github.com/glebis/audio-monitor)** — Continuous audio monitoring with VAD, Whisper transcription, and FTS5 search
 
