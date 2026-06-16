@@ -1,42 +1,85 @@
+## Latest additions and major updates
+
+Updated June 2026.
+
+**New projects**
+
+**[cenno](https://github.com/glebis/cenno)** - macOS runtime for AI agents to ask questions through minimal floating UI and receive answers as tool results
+
+**[cull-plugins](https://github.com/glebis/cull-plugins)** - official plugin registry for Cull, an agent-native AI-art image library
+
+**[print-proof-agent](https://github.com/glebis/print-proof-agent)** - Claude Agent SDK proofing agent for typography review, provenance-first UX, and rule/LLM/vision checks
+
+**[confide](https://github.com/glebis/confide)** - bilingual RU/EN therapy-transcript de-identification benchmark and red-team suite
+
+**[psychodemia-2026](https://github.com/glebis/psychodemia-2026)** - privacy-first AI analysis of therapy sessions with synthetic data, prompts, skills, and evals
+
+**Major updates**
+
+**[solopreneur-ops-vault](https://github.com/glebis/solopreneur-ops-vault)** - agent-powered daily operations vault for independent educators, built with Obsidian, Astro, and Vercel
+
+**[claude-skills](https://github.com/glebis/claude-skills)** and **[claude-skills-site](https://github.com/glebis/claude-skills-site)** - expanded Claude Code skills collection plus public documentation site
+
+**[genome-toolkit](https://github.com/glebis/genome-toolkit)** - personal genomics Obsidian toolkit for importing, analyzing, and acting on genome data with Claude Code
+
+---
+
 ## Hi, I'm Gleb Kalinin
 
-I build experimental tools at the intersection of AI and creative practice. Most projects emerge from personal needs—voice interfaces, audio analysis, generative music, knowledge management automation.
+I build experimental tools at the intersection of AI and creative practice. Most projects emerge from personal needs: voice interfaces, audio analysis, generative music, knowledge management automation, health data workflows, and agent-native personal systems.
 
-## Become AI-native with me: 
+## Become AI-native with me
 
-→ **[Claude Code Lab](https://claude.salient.community/)** — 6 weeks deep dive into best general-use agent
+→ **[Claude Code Lab](https://claude.salient.community/)** - 6-week deep dive into the best general-use agent
 
+## Selected projects
 
+**Agents and AI workflows**
 
+**[verity-agent](https://github.com/glebis/verity-agent)** - Claude Agent SDK-powered Telegram bot for knowledge workers with Obsidian integration, research, and habit tracking
 
-### Recent Projects
+**[claude-relay-mcp-server](https://github.com/glebis/claude-relay-mcp-server)** - MCP server for inter-session communication between Claude Code instances with routing, group chat, and access control
 
-**[genome-toolkit](https://github.com/glebis/genome-toolkit)** — Personal genomics Obsidian vault toolkit — import, analyze, and act on your genome data with Claude Code
+**[claude-cognitive-toolkit](https://github.com/glebis/claude-cognitive-toolkit)** - CBT and DBT intervention skills for Claude Code, standalone or via Telegram
 
-**[verity-agent](https://github.com/glebis/verity-agent)** — Claude Agent SDK-powered Telegram bot for knowledge workers with Obsidian integration, research, and habit tracking
+**[lot](https://github.com/glebis/lot)** - agent-centric personal OS plugin for teams
 
-**[generative-sequencer](https://github.com/glebis/generative-sequencer)** — Browser-based generative music sequencer with radial visualization, Web Audio synthesis, and AI-powered layer creation
+**Knowledge, health, and personal data**
 
-**[claude-relay-mcp-server](https://github.com/glebis/claude-relay-mcp-server)** — MCP server for inter-session communication between Claude Code instances with routing, group chat, and access control
+**[genome-toolkit](https://github.com/glebis/genome-toolkit)** - personal genomics Obsidian vault toolkit
 
-**[obsidian-4d-graph-explorer](https://github.com/glebis/obsidian-4d-graph-explorer)** — Explore your Obsidian knowledge graph in four dimensions with WebGL
+**[polar-h10-ribbon](https://github.com/glebis/polar-h10-ribbon)** - real-time HRV biofeedback with Polar H10, ambient lighting, generative music, and breathing coaching
 
-**[claude-skills](https://github.com/glebis/claude-skills)** — Collection of Claude Code skills for enhanced AI workflows
+**[photopulse](https://github.com/glebis/photopulse)** - behavioral health insights from 20 years of photo data
 
-**[gopro-webcam](https://github.com/glebis/gopro-webcam)** — Use GoPro Hero 13 as a webcam on macOS — workaround for the broken official app
+**[feed-intelligence](https://github.com/glebis/feed-intelligence)** - LinkedIn feed analyzer for content strategy
 
-**[beat-gen](https://github.com/glebis/beat-gen)** — CLI drum machine with AI-generated samples and MIDI export
+**Creative tools**
 
-**[modular-web-synth](https://github.com/glebis/modular-web-synth)** — Terminal-aesthetic modular synthesizer with AI module generation and Euclidean rhythms
+**[generative-sequencer](https://github.com/glebis/generative-sequencer)** - browser-based generative music sequencer with radial visualization, Web Audio synthesis, and AI-powered layer creation
 
-**[audio-monitor](https://github.com/glebis/audio-monitor)** — Continuous audio monitoring with VAD, Whisper transcription, and FTS5 search
+**[obsidian-4d-graph-explorer](https://github.com/glebis/obsidian-4d-graph-explorer)** - explore your Obsidian knowledge graph in four dimensions with WebGL
 
-### Connect
+**[gopro-webcam](https://github.com/glebis/gopro-webcam)** - use GoPro Hero 13 as a webcam on macOS
 
-📫 [@glebis](https://x.com/glebis) on X
-💬 [@glebkalinin](https://t.me/glebkalinin) on Telegram
-💼 [linkedin.com/in/glebkalinin](https://linkedin.com/in/glebkalinin)
+**[beat-gen](https://github.com/glebis/beat-gen)** - CLI drum machine with AI-generated samples and MIDI export
 
-**Telegram channels**:
-[КЛОДКОТ](https://t.me/klodkot) — Claude Code workflows
-[Tool Building Ape](https://t.me/toolusing) — AI tools & experiments
+**[modular-web-synth](https://github.com/glebis/modular-web-synth)** - terminal-aesthetic modular synthesizer with AI module generation and Euclidean rhythms
+
+## Contact
+
+**Website**: [glebkalinin.com](http://glebkalinin.com)
+
+**X**: [@glebis](https://x.com/glebis)
+
+**Telegram**: [@glebkalinin](https://t.me/glebkalinin)
+
+**LinkedIn**: [linkedin.com/in/glebkalinin](https://linkedin.com/in/glebkalinin)
+
+**GitHub**: [@glebis](https://github.com/glebis)
+
+**Telegram channels**
+
+[КЛОДКОТ](https://t.me/klodkot) - Claude Code workflows
+
+[Tool Building Ape](https://t.me/toolusing) - AI tools and experiments
