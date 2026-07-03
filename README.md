@@ -4,6 +4,8 @@ Updated June 2026.
 
 **New projects**
 
+**[Cull](https://cull.company/)** - ai-first image culling app for Mac
+
 **[cenno](https://github.com/glebis/cenno)** - macOS runtime for AI agents to ask questions through minimal floating UI and receive answers as tool results
 
 **[cull-plugins](https://github.com/glebis/cull-plugins)** - official plugin registry for Cull, an agent-native AI-art image library
@@ -14,9 +16,7 @@ Updated June 2026.
 
 **[psychodemia-2026](https://github.com/glebis/psychodemia-2026)** - privacy-first AI analysis of therapy sessions with synthetic data, prompts, skills, and evals
 
-**Major updates**
-
-**[solopreneur-ops-vault](https://github.com/glebis/solopreneur-ops-vault)** - agent-powered daily operations vault for independent educators, built with Obsidian, Astro, and Vercel
+## Major updates
 
 **[claude-skills](https://github.com/glebis/claude-skills)** and **[claude-skills-site](https://github.com/glebis/claude-skills-site)** - expanded Claude Code skills collection plus public documentation site
 
