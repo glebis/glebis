@@ -15,7 +15,6 @@
 
 **[confide](https://github.com/glebis/confide)** - bilingual RU/EN therapy-transcript de-identification benchmark and red-team suite
 
-**[psychodemia-2026](https://github.com/glebis/psychodemia-2026)** - privacy-first AI analysis of therapy sessions with synthetic data, prompts, skills, and evals
 
 ## Major updates
 
@@ -31,7 +30,7 @@ I build experimental tools at the intersection of AI and creative practice. Most
 
 ## Become AI-native with me
 
-→ **[Claude Code Lab](https://claude.salient.community/)** - 6-week deep dive into the best general-use agent
+→ **[Goal-Driven Design with AI](https://ai-design.salient.community/)** - 5-week deep dive into designing with agents
 
 ## Selected projects
 
