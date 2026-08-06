@@ -1,8 +1,9 @@
 ## Latest additions and major updates
 
-Updated June 2026.
 
 **New projects**
+
+**[Humane Agentic Design](https://github.com/glebis/humane-agentic-design/)** - a plugin collection of UX-first skills for your agents
 
 **[Cull](https://cull.company/)** - ai-first image culling app for Mac
 
