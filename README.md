@@ -12,7 +12,7 @@ The first projects combine sustained development, recent work, and public intere
 2. **[Cull](https://github.com/glebis/cull)** — A local-first image review and curation app for working through large collections without changing the originals. It supports visual similarity search, keeps generation history with images, and lets agents work with the library directly. [Product site](https://cull.company/)
 3. **[Humane Agentic Design](https://github.com/glebis/humane-agentic-design)** — A set of 21 design-method skills that take agent-assisted work from problem framing through prototyping and review, with explicit evidence and human judgment. [Method guides](https://humane.salient.community/)
 4. **[Genome Toolkit](https://github.com/glebis/genome-toolkit)** — A toolkit for importing consumer genome data, organizing evidence, and exploring variants and pharmacogenomics. Its outputs distinguish evidence tiers and limits rather than presenting uncalibrated genetic findings as clinical predictions.
-5. **[PiBot](https://github.com/glebis/pibot)** — A runtime for personal agents with chat, memory, scheduling, and per-agent capabilities. Its bounded goal workflow checks completion against evidence, while sensitive actions require explicit approval.
+5. **[PiBot](https://github.com/glebis/pibot)** — A personal-agent runtime with chat, memory, scheduling, and live voice. Calls can hand longer work to tracked background tasks; bounded goal workflows check completion against evidence, and sensitive actions require approval.
 6. **[cenno](https://github.com/glebis/cenno)** — A macOS app that lets agents ask questions through small floating panels and receive structured answers. It preserves keyboard focus and stores exchanges locally.
 
 ## More projects
